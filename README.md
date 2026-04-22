@@ -23,5 +23,4 @@ Este projeto realiza a análise do consumo de energia elétrica de uma fábrica 
 
 ## Objetivo
 Projeto desenvolvido com fins educacionais para praticar análise de dados, visualização gráfica e manipulação de datasets no contexto de sustentabilidade e eficiência energética industrial.
-## Autor
-Guilherme Januzzi
+
